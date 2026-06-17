@@ -191,10 +191,14 @@ I work as a developer for the **Kembron** agency, where I led most of the platfo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=luchoberaza&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&icon_color=3B8686&title_color=79BD9A" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchoberaza&layout=compact&hide_border=true&theme=tokyonight&title_color=79BD9A&langs_count=8" alt="top langs"/>
+![Proyectos](https://img.shields.io/badge/Proyectos-13-3B8686?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Commits_totales-700%2B-2EA043?style=for-the-badge&logo=git&logoColor=white)
+![Con Kembron](https://img.shields.io/badge/Con_Kembron-8_plataformas-1F6FEB?style=for-the-badge&logo=buildkite&logoColor=white)
+<br/>
+![Lenguaje](https://img.shields.io/badge/Principal-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-Next.js_·_React_·_PostgreSQL-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<sub>ℹ️ Las métricas reflejan únicamente la actividad pública; la mayor parte de mi trabajo está en repositorios privados de clientes.<br/>Metrics reflect public activity only; most of my work lives in private client repositories.</sub>
+<sub>📊 Totales sobre <b>todos</b> mis repositorios, incluyendo el trabajo privado de clientes (no solo la actividad pública).<br/>Totals across <b>all</b> my repositories, including private client work — not just public activity.</sub>
 
 </div>
 
