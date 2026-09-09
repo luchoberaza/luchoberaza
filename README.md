@@ -117,7 +117,7 @@ What I build ships to production and is used by people who invoice with it. Thes
 **🇬🇧** Operations platform for a cleaning & maintenance company in Mexico: selfie + GPS attendance, service management and a client portal.
 
 `Next.js` · `Drizzle` · `Neon` · `AWS S3` · `Leaflet` · `Vitest`
-<sub>México · 🔒 privado · fase 1 entregada · **60 commits** · **100%** del repositorio</sub>
+<sub>México · 🔒 privado · en construcción · **60 commits** · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:A855F7,100:6D28D9" width="100%" alt=""/>
 
@@ -191,7 +191,7 @@ What I build ships to production and is used by people who invoice with it. Thes
 **🇬🇧** Food-business management with WiFi thermal-printer tickets: dine-in and delivery, per-shift cash closing, customer balances and weekly menu planning.
 
 `Next.js` · `better-sqlite3` · `shadcn/ui` · `Zod`
-<sub>en desarrollo · **100%** del repositorio</sub>
+<sub>en construcción · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
@@ -201,7 +201,7 @@ What I build ships to production and is used by people who invoice with it. Thes
 **🇬🇧** Order and sales management for a rotisserie, with a metrics dashboard.
 
 `React` · `Vite` · `Radix UI` · `Recharts` · `Tailwind`
-<sub>en desarrollo · 🔒 privado · **8 commits** · **100%** del repositorio</sub>
+<sub>en construcción · 🔒 privado · **8 commits** · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
@@ -285,7 +285,7 @@ What I build ships to production and is used by people who invoice with it. Thes
 **🇬🇧** Cleaning-staff management and reporting platform: service records, photo evidence and report generation.
 
 `Next.js` · `Drizzle` · `Neon` · `React-PDF` · `docx` · `Leaflet`
-<sub>🔒 privado · prototipo · **52 commits** · **~30%** del repositorio</sub>
+<sub>🔒 privado · en construcción · **52 commits** · **~30%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:4C1D95,100:2E1065" width="100%" alt=""/>
 
