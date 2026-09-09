@@ -1,27 +1,36 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║  PERFIL GITHUB · luchoberaza · README (bilingüe ES/EN)        ║ -->
+<!-- ║  v2 · 2026-09 · paleta violeta + cian                         ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B486B,50:3B8686,100:79BD9A&text=Luciano%20Beraza&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Plataformas%20de%20gesti%C3%B3n%20a%20medida&descSize=18&descAlignY=60&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D0221,45:7C3AED,100:A855F7&text=Luciano%20Beraza&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Plataformas%20de%20gesti%C3%B3n%20a%20medida&descSize=17&descAlignY=58&animation=fadeIn" alt="header"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=3B8686&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+Next.js+%C2%B7+React+%C2%B7+TypeScript;Construyo+plataformas+de+gesti%C3%B3n+a+medida;I+build+custom+business+management+platforms;Trabajo+como+dev+para+la+agencia+Kembron" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=%3E+Full-Stack+Developer+%7C+Next.js+%C2%B7+React+%C2%B7+TypeScript;%3E+Del+modelo+de+datos+a+la+interfaz%2C+end-to-end;%3E+ERPs+de+obra+en+producci%C3%B3n%2C+no+demos;%3E+Custom+platforms+for+construction+%26+engineering" alt="typing"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/luchoberaza"><img src="https://img.shields.io/badge/GitHub-luchoberaza-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:kembronsolutions@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/luchoberaza/"><img src="https://img.shields.io/badge/Instagram-luchoberaza-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Salto%2C%20Uruguay-3B8686?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<a href="mailto:kembronsolutions@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=0D0221"/></a>
+<a href="https://github.com/luchoberaza"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=A855F7"/></a>
+<a href="https://www.instagram.com/luchoberaza/"><img src="https://img.shields.io/badge/Instagram-0D0221?style=for-the-badge&logo=instagram&logoColor=A855F7"/></a>
+<img src="https://img.shields.io/badge/Salto%20·%20Uruguay-0D0221?style=for-the-badge&logo=googlemaps&logoColor=22D3EE"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/commits-1.251-A855F7?style=flat-square&labelColor=0D0221&logo=git&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/proyectos-21-22D3EE?style=flat-square&labelColor=0D0221&logo=github&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/plataformas_Kembron-11-7C3AED?style=flat-square&labelColor=0D0221&logo=buildkite&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/desarrollo_integral-6-A855F7?style=flat-square&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/principal-TypeScript-3178C6?style=flat-square&labelColor=0D0221&logo=typescript&logoColor=3178C6"/>
 
 </div>
 
 ---
 
-## 🧭 Sobre mí · About
+## <img src="https://capsule-render.vercel.app/api?type=rect&height=68&color=0:A855F7,45:7C3AED,100:0D0221&fontColor=ffffff&fontSize=30&fontAlignY=56&text=SOBRE%20M%C3%8D%20%C2%B7%20ABOUT" width="100%" alt="Sobre mí · About"/>
 
 <table>
 <tr>
@@ -29,177 +38,295 @@
 
 **🇪🇸 Español**
 
-Desarrollador **full-stack** especializado en **plataformas de gestión a medida** para empresas de **construcción, ingeniería y comercio**. Diseño y desarrollo productos end-to-end: del modelo de datos a la interfaz, con foco en operaciones reales (obras, presupuestos, compras, finanzas, personal).
+Desarrollador **full-stack** especializado en **plataformas de gestión a medida** para empresas de **construcción, ingeniería y comercio**. Diseño y desarrollo productos end-to-end: del modelo de datos a la interfaz, con foco en operaciones reales — obras, presupuestos, compras, finanzas y personal.
 
-Trabajo como desarrollador para la agencia **Kembron**, donde llevé adelante la mayoría de las plataformas que ves abajo — varias de forma íntegra y otras como rol principal dentro del equipo.
+Trabajo como desarrollador para la agencia **Kembron**, donde llevé adelante la mayoría de las plataformas que ves abajo: varias de forma íntegra y otras como rol principal dentro del equipo.
+
+Lo que construyo entra en producción y lo usa gente que factura con eso. No son demos.
 
 </td>
 <td width="50%" valign="top">
 
 **🇬🇧 English**
 
-**Full-stack** developer focused on **custom business management platforms** for the **construction, engineering and retail** sectors. I design and build products end-to-end — from the data model to the UI — with an emphasis on real operations (sites, budgeting, procurement, finance, HR).
+**Full-stack** developer focused on **custom business management platforms** for the **construction, engineering and retail** sectors. I design and build products end-to-end — from the data model to the UI — with an emphasis on real operations: sites, budgeting, procurement, finance and HR.
 
 I work as a developer for the **Kembron** agency, where I led most of the platforms below — several of them entirely, others as the lead developer within the team.
+
+What I build ships to production and is used by people who invoice with it. These aren't demos.
 
 </td>
 </tr>
 </table>
 
+
 ---
 
-## 🛠️ Stack · Tech I work with
+## <img src="https://capsule-render.vercel.app/api?type=rect&height=68&color=0:A855F7,45:7C3AED,100:0D0221&fontColor=ffffff&fontSize=30&fontAlignY=56&text=STACK" width="100%" alt="Stack"/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,cs,react,nextjs,tailwind,nodejs,postgres,prisma,vercel,git,github,html,css&perline=15" alt="stack"/>
-
-<br/><br/>
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-<br/>
-![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,python,cs,html,css,react,nextjs,tailwind,vite,nodejs,express,postgres,sqlite,prisma,supabase,firebase,aws,vercel,git,github,bash,figma,vscode&perline=8" alt="stack"/>
 
 </div>
 
-> **Lenguajes** · TypeScript, JavaScript, Python, C#, SQL (PL/pgSQL) &nbsp;•&nbsp; **Frontend** · Next.js (App Router), React, Tailwind, shadcn/ui, Radix, Framer Motion, Recharts &nbsp;•&nbsp; **Backend & datos** · Node.js, PostgreSQL/Neon, Drizzle, Prisma, Auth.js, Zod &nbsp;•&nbsp; **Extras** · Vercel + Blob, Stripe, generación de PDF/Excel (jsPDF · React-PDF · SheetJS), React Hook Form, bcrypt, Nodemailer.
-
 ---
 
-## 🏗️ Trabajos con Kembron · Work at Kembron
+## <img src="https://capsule-render.vercel.app/api?type=rect&height=68&color=0:A855F7,45:7C3AED,100:0D0221&fontColor=ffffff&fontSize=30&fontAlignY=56&text=PROYECTOS%20%C2%B7%20PROJECTS" width="100%" alt="Proyectos · Projects"/>
 
-> Proyectos desarrollados como dev para la agencia **Kembron**. En cada uno indico mi nivel real de participación (medido por contribución al repositorio).
-> _Projects built as a developer for the **Kembron** agency. Each one states my actual level of involvement (measured by repository contribution)._
+> El **color de cada placa** indica el nivel de participación en el proyecto.
+> _Plate colour indicates the level of involvement in each project._
 
-<!-- ░░░░░░░░░░░░░░░░░░░ DESARROLLO INTEGRAL ░░░░░░░░░░░░░░░░░░░ -->
-### ✅ Desarrollo integral (solo) · Sole developer
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0D0221,100:A855F7&text=DESARROLLO%20INTEGRAL%20%C2%B7%20SOLE%20DEVELOPER&fontColor=ffffff&fontSize=20&fontAlignY=56" width="100%" alt="Desarrollo integral · Sole developer"/>
+</div>
 
-#### 🧱 ALMA Ingeniería &nbsp;·&nbsp; `🔒 Privado`
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:A855F7,100:6D28D9" width="100%" alt=""/>
+
+<sub>**KEMBRON**</sub>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=ALMA%20INGENIER%C3%8DA&fontColor=A855F7&fontSize=23&fontAlign=12.4&fontAlignY=54" width="100%" alt="ALMA Ingeniería"/>
+
 **🇪🇸** ERP vertical para ingeniería y construcción — 15 módulos (obras, compras, facturación electrónica, HSEQ, presupuesto, personal), preparado para escalar de 9 a 25+ obras simultáneas.
-**🇬🇧** Vertical ERP for engineering & construction — 15 modules (sites, procurement, e-invoicing, HSEQ, budgeting, HR), built to scale from 9 to 25+ concurrent sites.
+**🇬🇧** Vertical ERP for engineering & construction — 15 modules, built to scale from 9 to 25+ concurrent sites.
 
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black) ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black) ![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=flat-square&logo=auth0&logoColor=white) ![jsPDF](https://img.shields.io/badge/jsPDF-FF6C37?style=flat-square) ![xlsx](https://img.shields.io/badge/SheetJS-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-&nbsp;
-![Rol](https://img.shields.io/badge/Desarrollo_integral-100%25-2EA043?style=flat-square) ![Estado](https://img.shields.io/badge/Estado-Piloto-1F6FEB?style=flat-square) ![Users](https://img.shields.io/badge/Usuarios-~12-3B8686?style=flat-square&logo=person&logoColor=white) ![Escala](https://img.shields.io/badge/Dise%C3%B1ado-25%2B_obras-6E7681?style=flat-square)
+`Next.js 14` · `Drizzle` · `Neon` · `Auth.js` · `jsPDF` · `SheetJS`
+<sub>🔒 privado · piloto · ~12 usuarios · **717 commits** · **100%** del repositorio</sub>
 
-#### 🏢 Grupo ERG &nbsp;·&nbsp; `🔒 Privado`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:A855F7,100:6D28D9" width="100%" alt=""/>
+
+<sub>**KEMBRON**</sub>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=GRUPO%20ERG&fontColor=A855F7&fontSize=23&fontAlign=8.5&fontAlignY=54" width="100%" alt="Grupo ERG"/>
+
 **🇪🇸** Gestión integral de obras (avance físico, presupuesto con ajuste por índice, compras) para una constructora multirubro.
 **🇬🇧** End-to-end construction management (physical progress, index-adjusted budgeting, procurement) for a multi-trade contractor.
 
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black) ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square) ![xlsx](https://img.shields.io/badge/SheetJS-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-&nbsp;
-![Rol](https://img.shields.io/badge/Desarrollo_integral-100%25-2EA043?style=flat-square) ![Estado](https://img.shields.io/badge/Estado-Producci%C3%B3n-2EA043?style=flat-square) ![Users](https://img.shields.io/badge/Usuarios-~7-3B8686?style=flat-square&logo=person&logoColor=white)
+`Next.js 14` · `Drizzle` · `Neon` · `Recharts` · `SheetJS`
+<sub>🔒 privado · en producción · ~7 usuarios · **130 commits** · **100%** del repositorio</sub>
 
-#### ⛰️ Geoproduce &nbsp;·&nbsp; `🔒 Privado`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:A855F7,100:6D28D9" width="100%" alt=""/>
+
+<sub>**KEMBRON**</sub>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=PROMUSE&fontColor=A855F7&fontSize=23&fontAlign=7.3&fontAlignY=54" width="100%" alt="Promuse"/>
+
+**🇪🇸** Plataforma de operación para una empresa de limpieza y mantenimiento en Chihuahua, México: control de asistencia con **selfie + GPS**, gestión de servicios y portal de clientes.
+**🇬🇧** Operations platform for a cleaning & maintenance company in Mexico: selfie + GPS attendance, service management and a client portal.
+
+`Next.js` · `Drizzle` · `Neon` · `AWS S3` · `Leaflet` · `Vitest`
+<sub>México · 🔒 privado · fase 1 entregada · **60 commits** · **100%** del repositorio</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:A855F7,100:6D28D9" width="100%" alt=""/>
+
+<sub>**KEMBRON**</sub>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=YERIL%20OBRAS&fontColor=A855F7&fontSize=23&fontAlign=9.5&fontAlignY=54" width="100%" alt="Yeril Obras"/>
+
+**🇪🇸** Planificación y control de obra bajo **Last Planner System** para Grupo Yeril. Web de oficina — programa maestro, lookahead, plan semanal, indicadores — y **app móvil offline** para el campo, con sincronización al recuperar señal.
+**🇬🇧** Last Planner System site planning & control: office web plus an offline-first mobile app for the field.
+
+`Next.js` · `Prisma` · `PostgreSQL` · `NextAuth` · `Expo` · `React Native` · `expo-sqlite`
+<sub>Costa Rica · 🔒 privado · en construcción · **27 commits** · **100%** del repositorio</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:A855F7,100:6D28D9" width="100%" alt=""/>
+
+<sub>**KEMBRON**</sub>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=GEOPRODUCE&fontColor=A855F7&fontSize=23&fontAlign=10.0&fontAlignY=54" width="100%" alt="Geoproduce"/>
+
 **🇪🇸** Plataforma operacional web + PWA para gestión en tiempo real de obras, compras, cantera y finanzas.
 **🇬🇧** Operational web + PWA platform for real-time management of sites, procurement, quarry and finance.
 
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=flat-square&logo=auth0&logoColor=white) ![React-PDF](https://img.shields.io/badge/React--PDF-CB3837?style=flat-square) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-&nbsp;
-![Rol](https://img.shields.io/badge/Desarrollo_integral-100%25-2EA043?style=flat-square) ![Estado](https://img.shields.io/badge/Estado-Producci%C3%B3n-2EA043?style=flat-square) ![Users](https://img.shields.io/badge/Usuarios-~9-3B8686?style=flat-square&logo=person&logoColor=white)
+`Next.js 14` · `Prisma` · `Auth.js` · `React-PDF` · `PWA`
+<sub>🔒 privado · en producción · ~9 usuarios · **16 commits** · **100%** del repositorio</sub>
 
-#### 🤝 GestiCoop &nbsp;·&nbsp; `🔒 Privado`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:A855F7,100:6D28D9" width="100%" alt=""/>
+
+<sub>**KEMBRON**</sub>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=GESTICOOP&fontColor=A855F7&fontSize=23&fontAlign=8.5&fontAlignY=54" width="100%" alt="GestiCoop"/>
+
 **🇪🇸** Plataforma de gestión para una cooperativa: socios, integrantes, convenios, cuotas, subsidios y caja.
-**🇬🇧** Management platform for a cooperative: members, partners, agreements, dues, subsidies and cash flow.
+**🇬🇧** Management platform for a cooperative: members, agreements, dues, subsidies and cash flow.
 
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=flat-square&logo=auth0&logoColor=white)
-&nbsp;
-![Rol](https://img.shields.io/badge/Desarrollo_integral-100%25-2EA043?style=flat-square) ![Estado](https://img.shields.io/badge/Estado-En_desarrollo-6E7681?style=flat-square)
+`Next.js` · `TypeScript` · `PostgreSQL`
+<sub>🔒 privado · **21 commits** · **100%** del repositorio</sub>
 
-<!-- ░░░░░░░░░░░░░░░░░░░ COLABORACIÓN FUERTE ░░░░░░░░░░░░░░░░░░░ -->
-### 🔷 Rol principal · Lead developer (colaborativo)
+<br/>
 
-#### 📊 RodrigoAPP &nbsp;·&nbsp; `🔒 Privado`
-**🇪🇸** Gestión de obra con Gantt dinámico, ruta crítica, chat interno por tarea y alertas de desvío de presupuesto.
-**🇬🇧** Construction management with dynamic Gantt, critical path, per-task internal chat and budget-deviation alerts.
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0D0221,100:22D3EE&text=PROYECTOS%20PROPIOS%20%C2%B7%20PERSONAL%20PROJECTS&fontColor=ffffff&fontSize=20&fontAlignY=56" width="100%" alt="Proyectos propios · Personal projects"/>
+</div>
 
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma_7-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black) ![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-&nbsp;
-![Rol](https://img.shields.io/badge/Rol_principal-~75%25-1F6FEB?style=flat-square) ![Estado](https://img.shields.io/badge/Estado-Piloto-1F6FEB?style=flat-square) ![Users](https://img.shields.io/badge/Usuarios-~6-3B8686?style=flat-square&logo=person&logoColor=white)
+<br/>
 
-#### 🏘️ KyK Constructora &nbsp;·&nbsp; `🔒 Privado`
-**🇪🇸** Sistema integral de 8 módulos (obras, presupuestos, materiales, personal, finanzas, comunicación, tableros) con control de acceso por rol y por obra.
-**🇬🇧** Integral 8-module system (sites, budgets, materials, HR, finance, comms, dashboards) with role- and site-based access control.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black) ![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=flat-square&logo=auth0&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white) ![xlsx](https://img.shields.io/badge/SheetJS-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-&nbsp;
-![Rol](https://img.shields.io/badge/Rol_principal-~70%25-1F6FEB?style=flat-square) ![Estado](https://img.shields.io/badge/Estado-Piloto-1F6FEB?style=flat-square) ![Acceso](https://img.shields.io/badge/RBAC-rol%2Fobra-6E7681?style=flat-square)
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=PRIME%20CHAMPIONS&fontColor=22D3EE&fontSize=23&fontAlign=13.3&fontAlignY=54" width="100%" alt="Prime Champions"/>
 
-#### 🧠 ConstruIA &nbsp;·&nbsp; `🔒 Privado · SaaS`
-**🇪🇸** SaaS de gestión de obras con arquitectura DDD escalable y orquestación de agentes de IA.
-**🇬🇧** Construction-management SaaS with a scalable DDD architecture and AI-agent orchestration.
+**🇪🇸** Juego web de fútbol por temporadas: **subasta** de jugadores, torneos y copa, armado de formaciones, **equipo de la semana (TOTW)**, panel de supervisión y auditoría de accesos. Backend propio con IA integrada.
+**🇬🇧** Season-based football web game: player auctions, tournaments, squad building, team of the week, supervision panel and access auditing.
 
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PL/pgSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-&nbsp;
-![Rol](https://img.shields.io/badge/Rol_principal-~60%25-1F6FEB?style=flat-square) ![Producto](https://img.shields.io/badge/Producto-SaaS-8957E5?style=flat-square) ![Estado](https://img.shields.io/badge/Estado-En_desarrollo-6E7681?style=flat-square)
+`Express` · `PostgreSQL` · `Gemini AI` · `Firebase` · `Sharp` · `Resend`
+<sub>desplegado en VPS · **100%** del repositorio</sub>
 
-<!-- ░░░░░░░░░░░░░░░░░░░ COLABORACIÓN PARCIAL ░░░░░░░░░░░░░░░░░░░ -->
-### 🟠 Colaboración · Contributor
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
-#### 💼 ADITIUN &nbsp;·&nbsp; `🔒 Privado`
+### <a href="https://misticessence.com"><img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=MISTICESSENCE&fontColor=22D3EE&fontSize=23&fontAlign=11.6&fontAlignY=54" width="100%" alt="MisticEssence"/></a>
+
+**🇪🇸** Tienda de perfumes online con checkout por **WhatsApp**: el carrito se arma en la web y viaja como mensaje, sin pagos dentro del sitio.
+**🇬🇧** Online perfume store with a WhatsApp checkout — cart sent as a message, no in-site payments.
+
+`Next.js 16` · `Framer Motion` · `Tailwind`
+<sub>live · misticessence.com · en producción · **34 commits** · [ver código](https://github.com/luchoberaza/magicessence-perfume-store) · **100%** del repositorio</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=GRANJA%20MOLA&fontColor=22D3EE&fontSize=23&fontAlign=10.3&fontAlignY=54" width="100%" alt="Granja Mola"/>
+
+**🇪🇸** Gestión de comercio de comida con **comandas a impresora térmica WiFi**: venta local y delivery, cierres de caja por turno, clientes con saldo a favor o deuda con límite, y planificación semanal de menús con sustituciones controladas.
+**🇬🇧** Food-business management with WiFi thermal-printer tickets: dine-in and delivery, per-shift cash closing, customer balances and weekly menu planning.
+
+`Next.js` · `better-sqlite3` · `shadcn/ui` · `Zod`
+<sub>en desarrollo · **100%** del repositorio</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=LOS%20POLLOS%20AMIGOS&fontColor=22D3EE&fontSize=23&fontAlign=14.8&fontAlignY=54" width="100%" alt="Los Pollos Amigos"/>
+
+**🇪🇸** Gestión de pedidos y ventas para una pollería, con panel de métricas.
+**🇬🇧** Order and sales management for a rotisserie, with a metrics dashboard.
+
+`React` · `Vite` · `Radix UI` · `Recharts` · `Tailwind`
+<sub>en desarrollo · 🔒 privado · **8 commits** · **100%** del repositorio</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
+
+### <a href="https://github.com/luchoberaza/pizzeria-napolitana-webapp"><img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=PIZZER%C3%8DA%20NAPOLITANA&fontColor=22D3EE&fontSize=23&fontAlign=15.6&fontAlignY=54" width="100%" alt="Pizzería Napolitana"/></a>
+
+**🇪🇸** Gestión de pedidos para pizzería: estado de pedidos, comandas a cocina y facturación final en host local.
+**🇬🇧** Pizzeria order management: order status, kitchen tickets and final invoicing on a local host.
+
+`Next.js 15` · `React 19` · `TypeScript`
+<sub>repo público · **25 commits** · **100%** del repositorio</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
+
+### <a href="https://github.com/luchoberaza/gestorpedidos-magikburger"><img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=GESTORPEDIDOS%20MAGIKBURGER&fontColor=22D3EE&fontSize=23&fontAlign=22.4&fontAlignY=54" width="100%" alt="GestorPedidos MagikBurger"/></a>
+
+**🇪🇸** Gestor de pedidos para hamburguesería: facturas, impresión, repartidores y liquidación final.
+**🇬🇧** Burger-shop order manager: invoices, printing, delivery drivers and end-of-day settlement.
+
+`Python` · `JavaScript` · `HTML`
+<sub>repo público · **10 commits** · **100%** del repositorio</sub>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0D0221,100:7C3AED&text=ROL%20PRINCIPAL%20%C2%B7%20LEAD%20DEVELOPER&fontColor=ffffff&fontSize=20&fontAlignY=56" width="100%" alt="Rol principal · Lead developer"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:7C3AED,100:4C1D95" width="100%" alt=""/>
+
+<sub>**KEMBRON**</sub>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=KYK%20CONSTRUCTORA&fontColor=7C3AED&fontSize=23&fontAlign=14.5&fontAlignY=54" width="100%" alt="KyK Constructora"/>
+
+**🇪🇸** Gestión de obras y administración para una constructora.
+**🇬🇧** Site management and administration for a contractor.
+
+`Next.js` · `TypeScript` · `PostgreSQL`
+<sub>🔒 privado · **46 commits** · **~70%** del repositorio</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:7C3AED,100:4C1D95" width="100%" alt=""/>
+
+<sub>**KEMBRON**</sub>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=RODRIGOAPP&fontColor=7C3AED&fontSize=23&fontAlign=9.5&fontAlignY=54" width="100%" alt="RodrigoAPP"/>
+
+**🇪🇸** Plataforma de gestión y reportería a medida.
+**🇬🇧** Custom management and reporting platform.
+
+`Next.js` · `TypeScript`
+<sub>🔒 privado · **41 commits**</sub>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0D0221,100:4C1D95&text=COLABORACI%C3%93N%20%C2%B7%20CONTRIBUTOR&fontColor=ffffff&fontSize=20&fontAlignY=56" width="100%" alt="Colaboración · Contributor"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:4C1D95,100:2E1065" width="100%" alt=""/>
+
+<sub>**KEMBRON**</sub>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=ADITIUN&fontColor=4C1D95&fontSize=23&fontAlign=6.0&fontAlignY=54" width="100%" alt="ADITIUN"/>
+
 **🇪🇸** Sistema de contabilidad financiera contractual con trazabilidad de acopios, retenciones y ajustes por índice.
 **🇬🇧** Contractual financial-accounting system with traceability of stored materials, retentions and index adjustments.
 
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PL/pgSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![jsPDF](https://img.shields.io/badge/jsPDF-FF6C37?style=flat-square)
-&nbsp;
-![Rol](https://img.shields.io/badge/Colaboración-~24%25-D29922?style=flat-square) ![Estado](https://img.shields.io/badge/Estado-Piloto-1F6FEB?style=flat-square) ![Users](https://img.shields.io/badge/Usuarios-~7-3B8686?style=flat-square&logo=person&logoColor=white)
+`Next.js 16` · `React 19` · `shadcn/ui` · `PL/pgSQL` · `jsPDF`
+<sub>🔒 privado · piloto · **32 commits**</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:4C1D95,100:2E1065" width="100%" alt=""/>
+
+<sub>**KEMBRON**</sub>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=ASEA%20SOFTWARE&fontColor=4C1D95&fontSize=23&fontAlign=12.1&fontAlignY=54" width="100%" alt="ASEA Software"/>
+
+**🇪🇸** Plataforma de gestión de personal de limpieza y reportería: partes de servicio, evidencia fotográfica y generación de informes.
+**🇬🇧** Cleaning-staff management and reporting platform: service records, photo evidence and report generation.
+
+`Next.js` · `Drizzle` · `Neon` · `React-PDF` · `docx` · `Leaflet`
+<sub>🔒 privado · prototipo · **52 commits** · **~30%** del repositorio</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:4C1D95,100:2E1065" width="100%" alt=""/>
+
+<sub>**KEMBRON**</sub>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=CONSTRUIA&fontColor=4C1D95&fontSize=23&fontAlign=8.3&fontAlignY=54" width="100%" alt="ConstruIA"/>
+
+**🇪🇸** SaaS de gestión de obras con asistencia por IA — multi-tenant, suscripciones y módulos de obra.
+**🇬🇧** AI-assisted construction management SaaS — multi-tenant, subscriptions and site modules.
+
+`Next.js 15` · `Supabase` · `Stripe` · `TypeScript`
+<sub>🔒 privado · SaaS</sub>
 
 ---
 
-## 🚀 Proyectos propios · Personal projects
-
-> Productos que desarrollé **por mi cuenta**, de principio a fin.
-> _Products I built **on my own**, end-to-end._
+## <img src="https://capsule-render.vercel.app/api?type=rect&height=68&color=0:A855F7,45:7C3AED,100:0D0221&fontColor=ffffff&fontSize=30&fontAlignY=56&text=ACAD%C3%89MICOS%20%C2%B7%20ACADEMIC" width="100%" alt="Académicos · Academic"/>
 
 | Proyecto · Project | Descripción · Description | Stack | Rol · Role |
 |---|---|---|---|
-| **[🌐 MisticEssence](https://misticessence.com)** · [code](https://github.com/luchoberaza/magicessence-perfume-store) | 🇪🇸 Tienda de perfumes online con checkout por WhatsApp (carrito enviado como mensaje, sin pagos en la web).<br/>🇬🇧 Online perfume store with a WhatsApp checkout (cart sent as a message, no in-site payments). | ![Live](https://img.shields.io/badge/Live-misticessence.com-2EA043?style=flat-square&logo=vercel&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![100%](https://img.shields.io/badge/Solo-100%25-2EA043?style=flat-square) |
-| **[Pizzería Napolitana](https://github.com/luchoberaza/pizzeria-napolitana-webapp)** 🌐 | 🇪🇸 Gestión de pedidos para pizzería: estado de pedidos, comandas a cocina y facturación final en host local.<br/>🇬🇧 Order management for a pizzeria: order status, kitchen tickets and final invoicing on a local host. | ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TS](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![100%](https://img.shields.io/badge/Solo-100%25-2EA043?style=flat-square) |
-| **[GestorPedidos MagikBurger](https://github.com/luchoberaza/gestorpedidos-magikburger)** 🌐 | 🇪🇸 Gestor de pedidos para hamburguesería: facturas, impresión, repartidores y liquidación final.<br/>🇬🇧 Order manager for a burger shop: invoices, printing, delivery drivers and end-of-day settlement. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![100%](https://img.shields.io/badge/Solo-100%25-2EA043?style=flat-square) |
+| **[IngenierosSoftware](https://github.com/luchoberaza/ingenierossoftware)** | Proyecto final de 3.º BR, junto a Santiago Esquerré. | `C#` | en equipo · 24 commits |
+| **[Proyecto Olimpiadas 2022](https://github.com/luchoberaza/Proyecto-Olimpiadas-2022)** | Olimpiada de programación, en equipo. | `Lex/Yacc` | en equipo |
+| **[Laboratorio1-P1-FING](https://github.com/luchoberaza/Laboratorio1-P1-FING)** | Programación 1 · UdelaR – FIng. | `Python` | curso FIng |
+| **[MySQL_Zenity](https://github.com/luchoberaza/MySQL_Zenity)** | GUI en Zenity para operaciones sobre MySQL. | `Shell` · `MySQL` | solo · 100% |
 
 ---
 
-## 🎓 Académicos · Academic
-
-| Proyecto · Project | Descripción · Description | Stack | Rol · Role |
-|---|---|---|---|
-| **[IngenierosSoftware](https://github.com/luchoberaza/ingenierossoftware)** | Proyecto final · final project, junto a Santiago Esquerré. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | ![Equipo](https://img.shields.io/badge/Equipo-Colab.-D29922?style=flat-square) |
-| **[Laboratorio1-P1-FING](https://github.com/luchoberaza/Laboratorio1-P1-FING)** | Programación 1 · UdelaR – FIng. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Curso](https://img.shields.io/badge/Curso-FIng-3B8686?style=flat-square) |
-| **[Proyecto Olimpiadas 2022](https://github.com/luchoberaza/Proyecto-Olimpiadas-2022)** | Olimpiada de programación · en equipo. | ![Lex/Yacc](https://img.shields.io/badge/Lex%2FYacc-555555?style=flat-square) | ![Equipo](https://img.shields.io/badge/Equipo-Colab.-D29922?style=flat-square) |
-| **[MySQL_Zenity](https://github.com/luchoberaza/MySQL_Zenity)** | GUI Zenity para operaciones sobre MySQL. | ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | ![Inicial](https://img.shields.io/badge/Proyecto-inicial-555555?style=flat-square) |
-
----
-
-## 📈 Actividad · Activity
+## <img src="https://capsule-render.vercel.app/api?type=rect&height=68&color=0:A855F7,45:7C3AED,100:0D0221&fontColor=ffffff&fontSize=30&fontAlignY=56&text=ACTIVIDAD%20%C2%B7%20ACTIVITY" width="100%" alt="Actividad · Activity"/>
 
 <div align="center">
 
-<img width="53%" src="https://quickchart.io/chart?version=2&backgroundColor=%231a1b27&width=520&height=300&c=%7B%22type%22%3A%22horizontalBar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22ALMA+Ingenier%C3%ADa%22%2C%22Grupo+ERG%22%2C%22ConstruIA%22%2C%22KyK+Constructora%22%2C%22ADITIUN%22%2C%22MisticEssence%22%2C%22Pizzer%C3%ADa%22%2C%22GestiCoop%22%2C%22Geoproduce%22%2C%22RodrigoAPP%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Commits%22%2C%22data%22%3A%5B307%2C121%2C70%2C46%2C32%2C29%2C25%2C20%2C16%2C12%5D%2C%22backgroundColor%22%3A%22%233B8686%22%2C%22borderColor%22%3A%22%2379BD9A%22%2C%22borderWidth%22%3A1%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Commits+por+proyecto%22%2C%22fontColor%22%3A%22%23c0caf5%22%2C%22fontSize%22%3A15%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22plugins%22%3A%7B%22datalabels%22%3A%7B%22anchor%22%3A%22end%22%2C%22align%22%3A%22end%22%2C%22color%22%3A%22%2379BD9A%22%2C%22font%22%3A%7B%22weight%22%3A%22bold%22%7D%7D%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%238b93b8%22%2C%22beginAtZero%22%3Atrue%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28139%2C147%2C184%2C0.12%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23c0caf5%22%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%7D%7D%7D" alt="Commits por proyecto"/>
-<img width="44%" src="https://quickchart.io/chart?version=2&backgroundColor=%231a1b27&width=430&height=300&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Con+Kembron+%C2%B7+624%22%2C%22Propios+%C2%B7+58%22%2C%22Acad%C3%A9micos+%C2%B7+25%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B624%2C58%2C25%5D%2C%22backgroundColor%22%3A%5B%22%233B8686%22%2C%22%2379BD9A%22%2C%22%236E7681%22%5D%2C%22borderColor%22%3A%22%231a1b27%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Commits+por+categor%C3%ADa%22%2C%22fontColor%22%3A%22%23c0caf5%22%2C%22fontSize%22%3A15%7D%2C%22legend%22%3A%7B%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23c0caf5%22%2C%22padding%22%3A10%7D%7D%2C%22plugins%22%3A%7B%22datalabels%22%3A%7B%22color%22%3A%22%23ffffff%22%2C%22font%22%3A%7B%22weight%22%3A%22bold%22%7D%7D%7D%7D%7D" alt="Commits por categoría"/>
+<img width="55%" src="https://quickchart.io/chart?version=2&backgroundColor=%230D0221&width=540&height=320&c=%7B%22type%22%3A%22horizontalBar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22ALMA%20Ingenier%5Cu00eda%22%2C%22Grupo%20ERG%22%2C%22Promuse%22%2C%22ASEA%20Software%22%2C%22KyK%20Constructora%22%2C%22RodrigoAPP%22%2C%22MisticEssence%22%2C%22ADITIUN%22%2C%22Yeril%20Obras%22%2C%22Pizzer%5Cu00eda%20Napolitana%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Commits%22%2C%22data%22%3A%5B717%2C130%2C60%2C52%2C46%2C41%2C34%2C32%2C27%2C25%5D%2C%22backgroundColor%22%3A%22%23A855F7%22%2C%22borderColor%22%3A%22%2322D3EE%22%2C%22borderWidth%22%3A1%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Mis%20commits%20por%20proyecto%22%2C%22fontColor%22%3A%22%23E9D5FF%22%2C%22fontSize%22%3A15%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23A78BFA%22%2C%22beginAtZero%22%3Atrue%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28168%2C85%2C247%2C0.16%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23E9D5FF%22%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%7D%7D%7D" alt="Commits por proyecto"/>
+<img width="43%" src="https://quickchart.io/chart?version=2&backgroundColor=%230D0221&width=430&height=320&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Con%20Kembron%20%5Cu00b7%201148%22%2C%22Propios%20%5Cu00b7%2077%22%2C%22Acad%5Cu00e9micos%20%5Cu00b7%2026%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B1148%2C77%2C26%5D%2C%22backgroundColor%22%3A%5B%22%23A855F7%22%2C%22%2322D3EE%22%2C%22%234C1D95%22%5D%2C%22borderColor%22%3A%22%230D0221%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Commits%20por%20categor%5Cu00eda%22%2C%22fontColor%22%3A%22%23E9D5FF%22%2C%22fontSize%22%3A15%7D%2C%22legend%22%3A%7B%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23E9D5FF%22%2C%22padding%22%3A10%7D%7D%7D%7D" alt="Commits por categoría"/>
 
-![Commits](https://img.shields.io/badge/Commits_totales-700%2B-2EA043?style=for-the-badge&logo=git&logoColor=white)
-![Proyectos](https://img.shields.io/badge/Proyectos-13-3B8686?style=for-the-badge&logo=github&logoColor=white)
-![Con Kembron](https://img.shields.io/badge/Con_Kembron-8_plataformas-1F6FEB?style=for-the-badge&logo=buildkite&logoColor=white)
-![Lenguaje](https://img.shields.io/badge/Principal-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<br/><br/>
 
-<sub>📊 Totales sobre <b>todos</b> mis repositorios, incluyendo el trabajo privado de clientes (no solo la actividad pública).<br/>Totals across <b>all</b> my repositories, including private client work — not just public activity.</sub>
+![Commits](https://img.shields.io/badge/commits_totales-1.251-A855F7?style=for-the-badge&labelColor=0D0221&logo=git&logoColor=A855F7)
+![Proyectos](https://img.shields.io/badge/proyectos-21-22D3EE?style=for-the-badge&labelColor=0D0221&logo=github&logoColor=22D3EE)
+![Kembron](https://img.shields.io/badge/con_Kembron-11_plataformas-7C3AED?style=for-the-badge&labelColor=0D0221&logo=buildkite&logoColor=A855F7)
+
+<sub>📊 Totales sobre <b>todos</b> mis repositorios, incluyendo el trabajo privado de clientes — no solo la actividad pública.<br/>
+<i>Totals across <b>all</b> my repositories, including private client work — not just public activity.</i></sub>
 
 </div>
 
@@ -209,11 +336,13 @@ I work as a developer for the **Kembron** agency, where I led most of the platfo
 
 ### 💬 ¿Hablamos? · Let's talk
 
-Plataformas de gestión a medida · Sistemas para construcción, ingeniería y comercio
-<br/>*Custom management platforms · Systems for construction, engineering and retail*
+**Plataformas de gestión a medida** · Sistemas para construcción, ingeniería y comercio
+<br/><i>Custom management platforms · Systems for construction, engineering and retail</i>
 
-<a href="mailto:kembronsolutions@gmail.com"><img src="https://img.shields.io/badge/📩_Escribime_·_Get_in_touch-3B8686?style=for-the-badge"/></a>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:79BD9A,50:3B8686,100:0B486B&section=footer"/>
+<a href="mailto:kembronsolutions@gmail.com"><img src="https://img.shields.io/badge/📩_Escribime_·_Get_in_touch-A855F7?style=for-the-badge&labelColor=0D0221"/></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:A855F7,55:7C3AED,100:0D0221&section=footer"/>
 
 </div>
