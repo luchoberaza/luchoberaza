@@ -237,7 +237,7 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, herramient
 | **StreamClub** | sep 2026 | sep 2026 | ✅ terminado | solo |
 | **Prime Champions** | ago 2026 | sep 2026 | 🌐 desplegado en VPS | solo |
 | **Granja Mola** | ago 2026 | sep 2026 | ✅ terminado · 🌐 en uso en el local | solo |
-| **DJ IA** | ago 2026 | ago 2026 | 🔨 en construcción | solo |
+| **[DJ IA](https://github.com/luchoberaza/dj-ia)** | ago 2026 | ago 2026 | 🔨 en construcción | solo |
 | **Los Pollos Amigos** | jul 2026 | oct 2026 | ✅ terminado | solo |
 | **Tijera** · agenda de peluquería | jul 2026 | jul 2026 | ✅ terminado | solo |
 | **[Apuestas deportivas](https://github.com/luchoberaza/analisis-apuestas-deportivas)** | jun 2026 | jun 2026 | ✅ terminado | solo |
@@ -298,13 +298,13 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, herramient
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
-### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=DJ%20IA&fontColor=22D3EE&fontSize=23&fontAlign=4.3&fontAlignY=54" width="100%" alt="DJ IA"/>
+### <a href="https://github.com/luchoberaza/dj-ia"><img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=DJ%20IA&fontColor=22D3EE&fontSize=23&fontAlign=4.3&fontAlignY=54" width="100%" alt="DJ IA"/></a>
 
 **🇪🇸** Motor de programación musical para una noche de baile: arma el set cuidando la coherencia de **tempo, tonalidad, género y energía**, y suma lo que vota el público **sin que el voto rompa el ambiente**. Es una librería pura (sin audio, red ni base de datos), validada con tests de propiedad.
 **🇬🇧** Music-programming engine for a dance night: builds the set keeping tempo, key, genre and energy coherent, and folds in audience votes without breaking the vibe.
 
 `Python` · `pytest`
-<sub>📅 desde ago 2026 · 🔨 en construcción: núcleo de decisión construido · 🔒 privado · **4 commits** · **100%** del repositorio</sub>
+<sub>📅 desde ago 2026 · 🔨 en construcción: núcleo de decisión construido · repo público · [ver código](https://github.com/luchoberaza/dj-ia) · **4 commits** · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
