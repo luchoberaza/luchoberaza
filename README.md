@@ -20,10 +20,10 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/commits-1.384-A855F7?style=flat-square&labelColor=0D0221&logo=git&logoColor=A855F7"/>
-<img src="https://img.shields.io/badge/proyectos-32-22D3EE?style=flat-square&labelColor=0D0221&logo=github&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/plataformas_Kembron-11-7C3AED?style=flat-square&labelColor=0D0221&logo=buildkite&logoColor=A855F7"/>
-<img src="https://img.shields.io/badge/desarrollo_integral-6-A855F7?style=flat-square&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/commits-2.618-A855F7?style=flat-square&labelColor=0D0221&logo=git&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/proyectos-35-22D3EE?style=flat-square&labelColor=0D0221&logo=github&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/plataformas_Kembron-15-7C3AED?style=flat-square&labelColor=0D0221&logo=buildkite&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/desarrollo_integral-11-A855F7?style=flat-square&labelColor=0D0221"/>
 <img src="https://img.shields.io/badge/principal-TypeScript-3178C6?style=flat-square&labelColor=0D0221&logo=typescript&logoColor=3178C6"/>
 
 </div>
@@ -89,11 +89,23 @@ What I build ships to production and is used by people who invoice with it. Thes
 
 ### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=ALMA%20INGENIER%C3%8DA&fontColor=A855F7&fontSize=23&fontAlign=12.4&fontAlignY=54" width="100%" alt="ALMA Ingeniería"/>
 
-**🇪🇸** ERP vertical para ingeniería y construcción — 15 módulos (obras, compras, facturación electrónica, HSEQ, presupuesto, personal), preparado para escalar de 9 a 25+ obras simultáneas.
-**🇬🇧** Vertical ERP for engineering & construction — 15 modules, built to scale from 9 to 25+ concurrent sites.
+**🇪🇸** ERP vertical para ingeniería y construcción, en uso todos los días: obras, presupuesto, compras y procura, almacén, tesorería, facturación electrónica, personal, **Last Planner** con PPC, **valor ganado (EVM)** e inteligencia de compras, con **23 roles** y sus flujos de aprobación. La ampliación en curso suma talento humano, contabilidad, licitaciones y una **app móvil sin conexión** para la obra.
+**🇬🇧** Vertical ERP for engineering & construction in daily use: sites, budgeting, procurement, warehouse, treasury, e-invoicing, HR, Last Planner, earned value and purchasing intelligence, with 23 roles and approval flows. The ongoing extension adds accounting, tenders and an offline mobile app.
 
-`Next.js 14` · `Drizzle` · `Neon` · `Auth.js` · `jsPDF` · `SheetJS`
-<sub>🔒 privado · piloto · ~12 usuarios · **717 commits** · **100%** del repositorio</sub>
+`Next.js 14` · `Drizzle` · `Neon` · `Vercel Blob` · `Expo` · `React Native` · `jsPDF` · `SheetJS`
+<sub>📅 desde may 2026 · 🌐 en producción · ampliación en construcción · 🔒 privado · **1.703 commits** · **100%** del repositorio</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:A855F7,100:6D28D9" width="100%" alt=""/>
+
+<sub>**KEMBRON**</sub>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=ASEA%20SOFTWARE&fontColor=A855F7&fontSize=23&fontAlign=12.1&fontAlignY=54" width="100%" alt="ASEA Software"/>
+
+**🇪🇸** Plataforma de gestión de personal de limpieza y reportería: partes de servicio, asignaciones por puesto y horario, evidencia fotográfica y generación de informes. La construcción y las reuniones con el cliente, a cargo mío.
+**🇬🇧** Cleaning-staff management and reporting platform: service records, shift assignments, photo evidence and report generation — built and run with the client by me.
+
+`Next.js` · `Drizzle` · `Neon` · `React-PDF` · `docx` · `Leaflet`
+<sub>📅 desde jun 2026 · ✅ terminado · 🔒 privado · **184 commits**</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:A855F7,100:6D28D9" width="100%" alt=""/>
 
@@ -105,7 +117,7 @@ What I build ships to production and is used by people who invoice with it. Thes
 **🇬🇧** End-to-end construction management (physical progress, index-adjusted budgeting, procurement) for a multi-trade contractor.
 
 `Next.js 14` · `Drizzle` · `Neon` · `Recharts` · `SheetJS`
-<sub>🔒 privado · en producción · ~7 usuarios · **130 commits** · **100%** del repositorio</sub>
+<sub>📅 desde may 2026 · 🌐 en producción · ~7 usuarios · 🔒 privado · **130 commits** · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:A855F7,100:6D28D9" width="100%" alt=""/>
 
@@ -117,7 +129,31 @@ What I build ships to production and is used by people who invoice with it. Thes
 **🇬🇧** Operations platform for a cleaning & maintenance company in Mexico: selfie + GPS attendance, service management and a client portal.
 
 `Next.js` · `Drizzle` · `Neon` · `AWS S3` · `Leaflet` · `Vitest`
-<sub>México · 🔒 privado · en construcción · **60 commits** · **100%** del repositorio</sub>
+<sub>México · 📅 desde jul 2026 · 🌐 en producción · 🔒 privado · **77 commits** · **100%** del repositorio</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:A855F7,100:6D28D9" width="100%" alt=""/>
+
+<sub>**KEMBRON**</sub>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=SERVIZIK&fontColor=A855F7&fontSize=23&fontAlign=7.1&fontAlignY=54" width="100%" alt="Servizik"/>
+
+**🇪🇸** Plataforma para una empresa de limpieza industrial en México, con ~170 colaboradores en 14 sitios: checada desde el celular con **selfie y geocerca**, programa de limpieza con evidencia fotográfica, Recursos Humanos completo, **prenómina automática**, firma electrónica con **Legalario** y un portal donde el cliente de Servizik da su visto bueno. Reemplaza un circuito de Excel y WhatsApp.
+**🇬🇧** Platform for an industrial-cleaning company in Mexico (~170 staff, 14 sites): selfie + geofence check-in, cleaning programme with photo evidence, full HR, automatic pre-payroll, e-signature and a client portal.
+
+`Next.js 15` · `Drizzle` · `PostgreSQL` · `AWS S3` · `Leaflet` · `Playwright`
+<sub>México · 📅 desde sep 2026 · 🔨 en construcción · 20 módulos · 🔒 privado · **45 commits** · **100%** del repositorio</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:A855F7,100:6D28D9" width="100%" alt=""/>
+
+<sub>**KEMBRON**</sub>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=FANTASY&fontColor=A855F7&fontSize=23&fontAlign=7.2&fontAlignY=54" width="100%" alt="Fantasy"/>
+
+**🇪🇸** Sistema de gestión de personal, asignación y supervisión para una empresa de **limpieza institucional** en Argentina: planilla maestra, reemplazos y suplencias, activación de clientes, movimientos de operarios, horas del mes, viáticos, avisos por **WhatsApp** y una app de campo para la supervisión. 18 módulos, con permisos por zona en la base.
+**🇬🇧** Staff management, assignment and supervision system for an institutional-cleaning company in Argentina: master roster, replacements, client activation, monthly hours, allowances, WhatsApp notices and a field app — 18 modules with row-level security.
+
+`Next.js 16` · `React 19` · `Supabase` · `PostgreSQL` · `Tailwind` · `Vitest`
+<sub>Argentina · 📅 desde oct 2026 · 🔨 en construcción · 18 módulos · 🔒 privado · **100%** del desarrollo</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:A855F7,100:6D28D9" width="100%" alt=""/>
 
@@ -129,19 +165,19 @@ What I build ships to production and is used by people who invoice with it. Thes
 **🇬🇧** Last Planner System site planning & control: office web plus an offline-first mobile app for the field.
 
 `Next.js` · `Prisma` · `PostgreSQL` · `NextAuth` · `Expo` · `React Native` · `expo-sqlite`
-<sub>Costa Rica · 🔒 privado · en construcción · **27 commits** · **100%** del repositorio</sub>
+<sub>Costa Rica · 📅 desde ago 2026 · 🔨 en construcción · 🔒 privado · **38 commits** · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:A855F7,100:6D28D9" width="100%" alt=""/>
 
 <sub>**KEMBRON**</sub>
 
-### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=GEOPRODUCE&fontColor=A855F7&fontSize=23&fontAlign=10.0&fontAlignY=54" width="100%" alt="Geoproduce"/>
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=EL%20IMPERIO&fontColor=A855F7&fontSize=23&fontAlign=8.5&fontAlignY=54" width="100%" alt="El Imperio"/>
 
-**🇪🇸** Plataforma operacional web + PWA para gestión en tiempo real de obras, compras, cantera y finanzas.
-**🇬🇧** Operational web + PWA platform for real-time management of sites, procurement, quarry and finance.
+**🇪🇸** Emisor de boletas para una distribuidora de Salto: reemplaza las 50-60 boletas que se escribían a mano cada noche. Buscador rápido, total en vivo, borrador que sobrevive a un corte de internet, **impresión térmica de un toque** con su estado en pantalla y catálogo con fotos sacadas desde el iPad.
+**🇬🇧** Delivery-note app for a distributor: replaces 50–60 handwritten notes a night, with one-tap thermal printing, offline-safe drafts and a photo catalogue.
 
-`Next.js 14` · `Prisma` · `Auth.js` · `React-PDF` · `PWA`
-<sub>🔒 privado · en producción · ~9 usuarios · **16 commits** · **100%** del repositorio</sub>
+`Next.js 16` · `Drizzle` · `Neon` · `Tailwind` · `Playwright`
+<sub>Salto · 📅 desde sep 2026 · 🌐 en producción y en uso · 🔒 privado · **38 commits** · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:A855F7,100:6D28D9" width="100%" alt=""/>
 
@@ -153,7 +189,31 @@ What I build ships to production and is used by people who invoice with it. Thes
 **🇬🇧** Management platform for a cooperative: members, agreements, dues, subsidies and cash flow.
 
 `Next.js` · `TypeScript` · `PostgreSQL`
-<sub>🔒 privado · **21 commits** · **100%** del repositorio</sub>
+<sub>📅 desde jun 2026 · 🔒 privado · **21 commits** · **100%** del repositorio</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:A855F7,100:6D28D9" width="100%" alt=""/>
+
+<sub>**KEMBRON**</sub>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=GEOPRODUCE&fontColor=A855F7&fontSize=23&fontAlign=10.0&fontAlignY=54" width="100%" alt="Geoproduce"/>
+
+**🇪🇸** Plataforma operacional web + PWA para gestión en tiempo real de obras, compras, cantera y finanzas.
+**🇬🇧** Operational web + PWA platform for real-time management of sites, procurement, quarry and finance.
+
+`Next.js 14` · `Prisma` · `Auth.js` · `React-PDF` · `PWA`
+<sub>📅 desde jun 2026 · 🌐 en producción · ~9 usuarios · 🔒 privado · **16 commits** · **100%** del repositorio</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:A855F7,100:6D28D9" width="100%" alt=""/>
+
+<sub>**KEMBRON**</sub>
+
+### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=PACAS%20PRO%20ALMAC%C3%89N&fontColor=A855F7&fontSize=23&fontAlign=15.3&fontAlignY=54" width="100%" alt="Pacas Pro Almacén"/>
+
+**🇪🇸** Control de almacén de obra para una distribuidora que abastece a constructoras: stock vivo por obra calculado desde los movimientos, ingresos con **foto obligatoria de la guía**, ajustes con aprobación, alertas automáticas y trazabilidad total (nada se edita ni se borra: se anula con un contramovimiento). Multi-tenant por constructora.
+**🇬🇧** Construction-site warehouse control: live stock per site computed from movements, mandatory delivery-note photo, approved adjustments, automatic alerts and full traceability. Multi-tenant.
+
+`Next.js 14` · `Prisma` · `PostgreSQL` · `Tailwind` · `Playwright`
+<sub>📅 sep 2026 · ✅ terminado · 🔒 privado · **6 commits** · **100%** del repositorio</sub>
 
 <br/>
 
@@ -163,30 +223,29 @@ What I build ships to production and is used by people who invoice with it. Thes
 
 <br/>
 
-Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, propuestas, herramientas propias y proyectos en colaboración.
-<sub><i>What I build on my own, outside Kembron: systems for local businesses, proposals, my own tools and collaborations.</i></sub>
+Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, herramientas propias y proyectos en colaboración.
+<sub><i>What I build on my own, outside Kembron: systems for local businesses, my own tools and collaborations.</i></sub>
 
 | Proyecto · Project | Desde · Since | Última actividad · Last activity | Estado · Status | Equipo · Team |
 |---|---|---|---|---|
 | **[learn](https://github.com/luchoberaza/learn/tree/cursos)** | oct 2026 | oct 2026 | 🟢 activo | 👥 con [Santiago Esquerré](https://github.com/santi-esquerre) |
-| **StreamClub** | sep 2026 | sep 2026 | 🟡 en pausa · MVP completo | solo |
+| **StreamClub** | sep 2026 | sep 2026 | ✅ terminado | solo |
 | **Prime Champions** | ago 2026 | sep 2026 | 🌐 desplegado en VPS | solo |
-| **Granja Mola** | ago 2026 | sep 2026 | 🔨 en construcción | solo |
-| **DJ IA** | ago 2026 | ago 2026 | 🟡 en pausa · etapa 1 de 7 | solo |
-| **Los Pollos Amigos** | jul 2026 | oct 2026 | 🔨 en construcción | solo |
-| **Tijera** · agenda de peluquería | jul 2026 | jul 2026 | 📄 propuesta + demo | solo |
-| **Heladería Premium** | jul 2026 | jul 2026 | 📄 propuesta | solo |
-| **Apuestas deportivas** | jun 2026 | jun 2026 | 🟡 en pausa | solo |
-| **Shopify Research** | jun 2026 | jun 2026 | 🟡 en pausa | solo |
-| **PRODEA** | may 2026 | may 2026 | 🟡 en pausa · prototipo | solo |
+| **Granja Mola** | ago 2026 | sep 2026 | ✅ terminado · 🌐 en uso en el local | solo |
+| **DJ IA** | ago 2026 | ago 2026 | 🔨 en construcción | solo |
+| **Los Pollos Amigos** | jul 2026 | oct 2026 | ✅ terminado | solo |
+| **Tijera** · agenda de peluquería | jul 2026 | jul 2026 | ✅ terminado | solo |
+| **Apuestas deportivas** | jun 2026 | jun 2026 | ✅ terminado | solo |
+| **Shopify Research** | jun 2026 | jun 2026 | ✅ terminado | solo |
+| **PRODEA** | may 2026 | may 2026 | 🧪 prototipo | solo |
 | **Xupisco Hax** | may 2026 | may 2026 | ✅ terminado · v2.1 | solo |
-| **[MisticEssence](https://misticessence.com)** | feb 2026 | ago 2026 | 🌐 en producción | solo |
-| **[Pizzería Napolitana](https://github.com/luchoberaza/pizzeria-napolitana-webapp)** | feb 2026 | jul 2026 | 🟡 en pausa | solo |
+| **[MisticEssence](https://misticessence.com)** | feb 2026 | ago 2026 | ✅ terminado · 🌐 en producción | solo |
+| **[Pizzería Napolitana](https://github.com/luchoberaza/pizzeria-napolitana-webapp)** | feb 2026 | jul 2026 | ✅ terminado | solo |
 | **[GestorPedidos MagikBurger](https://github.com/luchoberaza/gestorpedidos-magikburger)** | dic 2025 | ago 2026 | 🌐 en uso en el local | solo |
-| **Don Pilo** | dic 2025 | ene 2026 | 🟡 en pausa | solo |
-| **La Mila Grosa** | dic 2025 | ene 2026 | 🟡 en pausa | solo |
+| **Don Pilo** | dic 2025 | ene 2026 | ✅ terminado | solo |
+| **La Mila Grosa** | dic 2025 | ene 2026 | ✅ terminado | solo |
 
-<sub>🟢 activo · 🔨 en construcción · 🌐 en producción · ✅ terminado · 🟡 en pausa · 📄 propuesta comercial<br/><i>active · in progress · in production · done · paused · commercial proposal</i></sub>
+<sub>🟢 activo · 🔨 en construcción · 🌐 en producción · ✅ terminado · 🧪 prototipo<br/><i>active · in progress · in production · done · prototype</i></sub>
 
 <br/>
 
@@ -210,7 +269,7 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, propuestas
 **🇬🇧** Community & rewards platform for a Kick streamer: chat points, levels, missions, rankings and prize redemption, all run from an admin panel.
 
 `Next.js 16` · `React 19` · `Prisma 7` · `PostgreSQL` · `Vitest` · `Playwright`
-<sub>📅 desde sep 2026 · 🟡 en pausa: MVP completo con **851 tests** en verde, falta conectarlo a Kick en producción · 🔒 privado · **77 commits** · **100%** del repositorio</sub>
+<sub>📅 sep 2026 · ✅ terminado · **851 tests** en verde · 🔒 privado · **77 commits** · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
@@ -230,7 +289,7 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, propuestas
 **🇬🇧** Food-business management with WiFi thermal-printer tickets: dine-in and delivery, per-shift cash closing, customer balances and weekly menu planning.
 
 `Next.js` · `better-sqlite3` · `shadcn/ui` · `Zod`
-<sub>📅 desde ago 2026 · 🔨 en construcción · última actividad sep 2026 · 🔒 privado · **21 commits** · **100%** del repositorio</sub>
+<sub>📅 ago–sep 2026 · ✅ terminado y entregado · 🌐 en uso en el local · 🔒 privado · **21 commits** · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
@@ -240,7 +299,7 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, propuestas
 **🇬🇧** Music-programming engine for a dance night: builds the set keeping tempo, key, genre and energy coherent, and folds in audience votes without breaking the vibe.
 
 `Python` · `pytest`
-<sub>📅 desde ago 2026 · 🟡 en pausa: etapa 1 de 7 (núcleo de decisión) construida · 🔒 privado · **4 commits** · **100%** del repositorio</sub>
+<sub>📅 desde ago 2026 · 🔨 en construcción: núcleo de decisión construido · 🔒 privado · **4 commits** · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
@@ -250,27 +309,17 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, propuestas
 **🇬🇧** Order and sales management for a rotisserie, with a metrics dashboard.
 
 `React` · `Vite` · `Radix UI` · `Recharts` · `Tailwind`
-<sub>📅 desde jul 2026 · 🔨 en construcción · última actividad oct 2026 · 🔒 privado · **9 commits** · **100%** del repositorio</sub>
+<sub>📅 jul–oct 2026 · ✅ terminado · 🔒 privado · **9 commits** · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
 ### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=TIJERA&fontColor=22D3EE&fontSize=23&fontAlign=5.7&fontAlignY=54" width="100%" alt="Tijera"/>
 
-**🇪🇸** Propuesta para una peluquería con **demo funcional**: agenda por profesional, reservas automáticas por **WhatsApp** que solo ofrecen horarios libres, ficha técnica de color por clienta y caja con comisiones. La demo es un único HTML que se manda por WhatsApp.
-**🇬🇧** Hair-salon proposal with a working demo: per-stylist schedule, automatic WhatsApp bookings, colour records per client and a till with commissions.
+**🇪🇸** Agenda para peluquería: turnos por profesional, reservas automáticas por **WhatsApp** que solo ofrecen horarios libres, ficha técnica de color por clienta y caja con comisiones. También corre como un único archivo HTML, sin instalar nada.
+**🇬🇧** Hair-salon scheduler: per-stylist bookings, automatic WhatsApp reservations, colour records per client and a till with commissions.
 
 `React 19` · `Vite` · `TypeScript` · `Tailwind`
-<sub>📅 jul 2026 · 📄 propuesta + demo · 🔒 privado · **100%** del repositorio</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
-
-### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=HELADER%C3%8DA%20PREMIUM&fontColor=22D3EE&fontSize=23&fontAlign=15.0&fontAlignY=54" width="100%" alt="Heladería Premium"/>
-
-**🇪🇸** Propuesta de un sistema de gestión y análisis para una heladería de Salto: ventas y gastos se cargan una sola vez y del otro lado quedan la ganancia real, los márgenes y el Excel llenándose solo.
-**🇬🇧** Proposal for a management & analytics system for an ice-cream shop: enter sales and expenses once, get real profit, margins and a self-filling spreadsheet.
-
-`HTML` · `CSS` · `PDF`
-<sub>📅 jul 2026 · 📄 propuesta · 🔒 privado · **100%** del repositorio</sub>
+<sub>📅 jul 2026 · ✅ terminado · 🔒 privado · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
@@ -280,7 +329,7 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, propuestas
 **🇬🇧** Dashboard ranking the best bets and parlays per sport and day, with the real probability of each (Shin de-vig of market odds).
 
 `Flask` · `React` · `Tailwind` · `The Odds API`
-<sub>📅 jun 2026 · 🟡 en pausa · 🔒 privado · **100%** del repositorio</sub>
+<sub>📅 jun 2026 · ✅ terminado · 🔒 privado · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
@@ -290,7 +339,7 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, propuestas
 **🇬🇧** Product research & publishing pipeline for Shopify: supplier catalogue + MercadoLibre demand, configurable scoring, listings and draft publishing, closing the loop with sales data.
 
 `Python` · `SQLite` · `Shopify GraphQL` · `MercadoLibre API`
-<sub>📅 jun 2026 · 🟡 en pausa · 🔒 privado · **100%** del repositorio</sub>
+<sub>📅 jun 2026 · ✅ terminado · 🔒 privado · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
@@ -300,7 +349,7 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, propuestas
 **🇬🇧** Website for an animal-protection shelter: adoptions, resident animals and an admin panel, plus its domain model and design diagrams.
 
 `Next.js 16` · `React 19` · `Tailwind` · `TypeScript`
-<sub>📅 may 2026 · 🟡 en pausa (prototipo) · 🔒 privado · **2 commits** · **100%** del repositorio</sub>
+<sub>📅 may 2026 · 🧪 prototipo · 🔒 privado · **2 commits** · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
@@ -320,7 +369,7 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, propuestas
 **🇬🇧** Online perfume store with a WhatsApp checkout — cart sent as a message, no in-site payments.
 
 `Next.js 16` · `Framer Motion` · `Tailwind`
-<sub>📅 desde feb 2026 · 🌐 en producción · live · misticessence.com · última actividad ago 2026 · **34 commits** · [ver código](https://github.com/luchoberaza/magicessence-perfume-store) · **100%** del repositorio</sub>
+<sub>📅 desde feb 2026 · ✅ terminado · 🌐 en producción en misticessence.com · **34 commits** · [ver código](https://github.com/luchoberaza/magicessence-perfume-store) · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
@@ -330,7 +379,7 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, propuestas
 **🇬🇧** Pizzeria order management: order status, kitchen tickets and final invoicing on a local host.
 
 `Next.js 15` · `React 19` · `TypeScript`
-<sub>📅 desde feb 2026 · 🟡 en pausa · última actividad jul 2026 · repo público · **25 commits** · **100%** del repositorio</sub>
+<sub>📅 feb–jul 2026 · ✅ terminado · repo público · **25 commits** · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
@@ -350,7 +399,7 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, propuestas
 **🇬🇧** Point of sale for a bakery: quick sales, daily sales, catalogue and stock, and a password-protected end-of-day PDF report.
 
 `Flask` · `SQLite` · `ReportLab`
-<sub>📅 dic 2025 – ene 2026 · 🟡 en pausa · 🔒 privado · **100%** del repositorio</sub>
+<sub>📅 dic 2025 – ene 2026 · ✅ terminado · 🔒 privado · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
@@ -360,7 +409,7 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, propuestas
 **🇬🇧** Sales log for a milanesa shop: itemised sales, history and a daily summary with stats.
 
 `Flask` · `SQLite` · `Bootstrap`
-<sub>📅 dic 2025 – ene 2026 · 🟡 en pausa · 🔒 privado · **100%** del repositorio</sub>
+<sub>📅 dic 2025 – ene 2026 · ✅ terminado · 🔒 privado · **100%** del repositorio</sub>
 
 <br/>
 
@@ -418,18 +467,6 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, propuestas
 
 <sub>**KEMBRON**</sub>
 
-### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=ASEA%20SOFTWARE&fontColor=4C1D95&fontSize=23&fontAlign=12.1&fontAlignY=54" width="100%" alt="ASEA Software"/>
-
-**🇪🇸** Plataforma de gestión de personal de limpieza y reportería: partes de servicio, evidencia fotográfica y generación de informes.
-**🇬🇧** Cleaning-staff management and reporting platform: service records, photo evidence and report generation.
-
-`Next.js` · `Drizzle` · `Neon` · `React-PDF` · `docx` · `Leaflet`
-<sub>🔒 privado · en construcción · **52 commits** · **~30%** del repositorio</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:4C1D95,100:2E1065" width="100%" alt=""/>
-
-<sub>**KEMBRON**</sub>
-
 ### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=CONSTRUIA&fontColor=4C1D95&fontSize=23&fontAlign=8.3&fontAlignY=54" width="100%" alt="ConstruIA"/>
 
 **🇪🇸** SaaS de gestión de obras con asistencia por IA — multi-tenant, suscripciones y módulos de obra.
@@ -455,14 +492,14 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, propuestas
 
 <div align="center">
 
-<img width="55%" src="https://quickchart.io/chart?version=2&backgroundColor=%230D0221&width=540&height=320&c=%7B%22type%22%3A%22horizontalBar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22ALMA%20Ingenier%5Cu00eda%22%2C%22Grupo%20ERG%22%2C%22StreamClub%22%2C%22Promuse%22%2C%22ASEA%20Software%22%2C%22KyK%20Constructora%22%2C%22RodrigoAPP%22%2C%22MisticEssence%22%2C%22ADITIUN%22%2C%22Yeril%20Obras%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Commits%22%2C%22data%22%3A%5B717%2C130%2C77%2C60%2C52%2C46%2C41%2C34%2C32%2C27%5D%2C%22backgroundColor%22%3A%22%23A855F7%22%2C%22borderColor%22%3A%22%2322D3EE%22%2C%22borderWidth%22%3A1%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Mis%20commits%20por%20proyecto%22%2C%22fontColor%22%3A%22%23E9D5FF%22%2C%22fontSize%22%3A15%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23A78BFA%22%2C%22beginAtZero%22%3Atrue%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28168%2C85%2C247%2C0.16%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23E9D5FF%22%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%7D%7D%7D" alt="Commits por proyecto"/>
-<img width="43%" src="https://quickchart.io/chart?version=2&backgroundColor=%230D0221&width=430&height=320&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Con%20Kembron%20%5Cu00b7%201148%22%2C%22Propios%20%5Cu00b7%20210%22%2C%22Acad%5Cu00e9micos%20%5Cu00b7%2026%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B1148%2C210%2C26%5D%2C%22backgroundColor%22%3A%5B%22%23A855F7%22%2C%22%2322D3EE%22%2C%22%234C1D95%22%5D%2C%22borderColor%22%3A%22%230D0221%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Commits%20por%20categor%5Cu00eda%22%2C%22fontColor%22%3A%22%23E9D5FF%22%2C%22fontSize%22%3A15%7D%2C%22legend%22%3A%7B%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23E9D5FF%22%2C%22padding%22%3A10%7D%7D%7D%7D" alt="Commits por categoría"/>
+<img width="55%" src="https://quickchart.io/chart?version=2&backgroundColor=%230D0221&width=540&height=320&c=%7B%22type%22%3A%22horizontalBar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22ALMA%20Ingenier%5Cu00eda%22%2C%22ASEA%20Software%22%2C%22Grupo%20ERG%22%2C%22Promuse%22%2C%22StreamClub%22%2C%22KyK%20Constructora%22%2C%22Servizik%22%2C%22RodrigoAPP%22%2C%22Yeril%20Obras%22%2C%22El%20Imperio%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Commits%22%2C%22data%22%3A%5B1703%2C184%2C130%2C77%2C77%2C46%2C45%2C41%2C38%2C38%5D%2C%22backgroundColor%22%3A%22%23A855F7%22%2C%22borderColor%22%3A%22%2322D3EE%22%2C%22borderWidth%22%3A1%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Mis%20commits%20por%20proyecto%22%2C%22fontColor%22%3A%22%23E9D5FF%22%2C%22fontSize%22%3A15%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23A78BFA%22%2C%22beginAtZero%22%3Atrue%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28168%2C85%2C247%2C0.16%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23E9D5FF%22%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%7D%7D%7D" alt="Commits por proyecto"/>
+<img width="43%" src="https://quickchart.io/chart?version=2&backgroundColor=%230D0221&width=430&height=320&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Con%20Kembron%20%5Cu00b7%202383%22%2C%22Propios%20%5Cu00b7%20209%22%2C%22Acad%5Cu00e9micos%20%5Cu00b7%2026%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B2383%2C209%2C26%5D%2C%22backgroundColor%22%3A%5B%22%23A855F7%22%2C%22%2322D3EE%22%2C%22%234C1D95%22%5D%2C%22borderColor%22%3A%22%230D0221%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Commits%20por%20categor%5Cu00eda%22%2C%22fontColor%22%3A%22%23E9D5FF%22%2C%22fontSize%22%3A15%7D%2C%22legend%22%3A%7B%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23E9D5FF%22%2C%22padding%22%3A10%7D%7D%7D%7D" alt="Commits por categoría"/>
 
 <br/><br/>
 
-![Commits](https://img.shields.io/badge/commits_totales-1.384-A855F7?style=for-the-badge&labelColor=0D0221&logo=git&logoColor=A855F7)
-![Proyectos](https://img.shields.io/badge/proyectos-32-22D3EE?style=for-the-badge&labelColor=0D0221&logo=github&logoColor=22D3EE)
-![Kembron](https://img.shields.io/badge/con_Kembron-11_plataformas-7C3AED?style=for-the-badge&labelColor=0D0221&logo=buildkite&logoColor=A855F7)
+![Commits](https://img.shields.io/badge/commits_totales-2.618-A855F7?style=for-the-badge&labelColor=0D0221&logo=git&logoColor=A855F7)
+![Proyectos](https://img.shields.io/badge/proyectos-35-22D3EE?style=for-the-badge&labelColor=0D0221&logo=github&logoColor=22D3EE)
+![Kembron](https://img.shields.io/badge/con_Kembron-15_plataformas-7C3AED?style=for-the-badge&labelColor=0D0221&logo=buildkite&logoColor=A855F7)
 
 <sub>📊 Totales sobre <b>todos</b> mis repositorios, incluyendo el trabajo privado de clientes — no solo la actividad pública.<br/>
 <i>Totals across <b>all</b> my repositories, including private client work — not just public activity.</i></sub>
