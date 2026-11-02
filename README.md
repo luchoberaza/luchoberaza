@@ -239,7 +239,7 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, herramient
 | **Granja Mola** | ago 2026 | sep 2026 | ✅ terminado · 🌐 en uso en el local | solo |
 | **[DJ IA](https://github.com/luchoberaza/dj-ia)** | ago 2026 | ago 2026 | 🔨 en construcción | solo |
 | **Los Pollos Amigos** | jul 2026 | oct 2026 | ✅ terminado | solo |
-| **Tijera** · agenda de peluquería | jul 2026 | jul 2026 | ✅ terminado | solo |
+| **[Tijera](https://github.com/luchoberaza/tijera)** · agenda de peluquería | jul 2026 | jul 2026 | ✅ terminado | solo |
 | **[Apuestas deportivas](https://github.com/luchoberaza/analisis-apuestas-deportivas)** | jun 2026 | jun 2026 | ✅ terminado | solo |
 | **[Shopify Research](https://github.com/luchoberaza/shopify-research)** | jun 2026 | jun 2026 | ✅ terminado | solo |
 | **[PRODEA](https://github.com/luchoberaza/prodea-web)** | may 2026 | may 2026 | 🧪 prototipo | solo |
@@ -284,7 +284,7 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, herramient
 **🇬🇧** Season-based football web game: player auctions, tournaments, squad building, team of the week, supervision panel and access auditing.
 
 `Express` · `PostgreSQL` · `Gemini AI` · `Firebase` · `Sharp` · `Resend`
-<sub>📅 desde ago 2026 · 🌐 desplegado en VPS · última actividad sep 2026 · **100%** del repositorio</sub>
+<sub>📅 desde ago 2026 · 🌐 desplegado en VPS · última actividad sep 2026 · 🔒 privado · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
@@ -318,13 +318,13 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, herramient
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
-### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=TIJERA&fontColor=22D3EE&fontSize=23&fontAlign=5.7&fontAlignY=54" width="100%" alt="Tijera"/>
+### <a href="https://github.com/luchoberaza/tijera"><img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=TIJERA&fontColor=22D3EE&fontSize=23&fontAlign=5.7&fontAlignY=54" width="100%" alt="Tijera"/></a>
 
 **🇪🇸** Agenda para peluquería: turnos por profesional, reservas automáticas por **WhatsApp** que solo ofrecen horarios libres, ficha técnica de color por clienta y caja con comisiones. También corre como un único archivo HTML, sin instalar nada.
 **🇬🇧** Hair-salon scheduler: per-stylist bookings, automatic WhatsApp reservations, colour records per client and a till with commissions.
 
 `React 19` · `Vite` · `TypeScript` · `Tailwind`
-<sub>📅 jul 2026 · ✅ terminado · 🔒 privado · **100%** del repositorio</sub>
+<sub>📅 jul 2026 · ✅ terminado · repo público · [ver código](https://github.com/luchoberaza/tijera) · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
