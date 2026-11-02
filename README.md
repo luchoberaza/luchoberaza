@@ -234,7 +234,7 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, herramient
 | Proyecto · Project | Desde · Since | Última actividad · Last activity | Estado · Status | Equipo · Team |
 |---|---|---|---|---|
 | **[learn](https://github.com/luchoberaza/learn/tree/cursos)** | oct 2026 | oct 2026 | 🟢 activo | 👥 con [Santiago Esquerré](https://github.com/santi-esquerre) |
-| **StreamClub** | sep 2026 | sep 2026 | ✅ terminado | solo |
+| **StreamClub** | sep 2026 | sep 2026 | ✅ MVP completo | solo |
 | **Prime Champions** | ago 2026 | sep 2026 | 🌐 desplegado en VPS | solo |
 | **Granja Mola** | ago 2026 | sep 2026 | ✅ terminado · 🌐 en uso en el local | solo |
 | **[DJ IA](https://github.com/luchoberaza/dj-ia)** | ago 2026 | ago 2026 | 🔨 en construcción | solo |
@@ -274,7 +274,7 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, herramient
 **🇬🇧** Community & rewards platform for a Kick streamer: chat points, levels, missions, rankings and prize redemption, all run from an admin panel.
 
 `Next.js 16` · `React 19` · `Prisma 7` · `PostgreSQL` · `Vitest` · `Playwright`
-<sub>📅 sep 2026 · ✅ terminado · **851 tests** en verde · 🔒 privado · **77 commits** · **100%** del repositorio</sub>
+<sub>📅 sep 2026 · ✅ MVP completo · **851 tests** en verde · 🔒 privado · **77 commits** · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
