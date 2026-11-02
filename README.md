@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="mailto:lberaza9@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=0D0221"/></a>
+<a href="mailto:luberaza24@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=0D0221"/></a>
 <a href="https://github.com/luchoberaza"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=A855F7"/></a>
 <a href="https://www.instagram.com/luchoberaza/"><img src="https://img.shields.io/badge/Instagram-0D0221?style=for-the-badge&logo=instagram&logoColor=A855F7"/></a>
 <img src="https://img.shields.io/badge/Salto%20·%20Uruguay-0D0221?style=for-the-badge&logo=googlemaps&logoColor=22D3EE"/>
@@ -76,6 +76,11 @@ What I build ships to production and is used by people who invoice with it. Thes
 
 > El **color de cada placa** indica el nivel de participación en el proyecto.
 > _Plate colour indicates the level of involvement in each project._
+>
+> Los proyectos marcados **KEMBRON** son de la agencia. Para consultas sobre ellos o un proyecto nuevo, escribile directo a Kembron.
+> _Projects tagged KEMBRON belong to the agency — for inquiries or a new project, contact Kembron directly._
+
+<a href="mailto:contacto@kembron.com"><img src="https://img.shields.io/badge/Kembron-contacto@kembron.com-7C3AED?style=for-the-badge&labelColor=0D0221&logo=gmail&logoColor=A855F7" alt="Escribir a Kembron"/></a>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0D0221,100:A855F7&text=DESARROLLO%20INTEGRAL%20%C2%B7%20SOLE%20DEVELOPER&fontColor=ffffff&fontSize=20&fontAlignY=56" width="100%" alt="Desarrollo integral · Sole developer"/>
@@ -517,7 +522,8 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, herramient
 
 <br/>
 
-<a href="mailto:lberaza9@gmail.com"><img src="https://img.shields.io/badge/📩_Escribime_·_Get_in_touch-A855F7?style=for-the-badge&labelColor=0D0221"/></a>
+<a href="mailto:luberaza24@gmail.com"><img src="https://img.shields.io/badge/📩_Escribime_·_Get_in_touch-A855F7?style=for-the-badge&labelColor=0D0221"/></a>
+<a href="mailto:contacto@kembron.com"><img src="https://img.shields.io/badge/🏢_Kembron_·_contacto@kembron.com-7C3AED?style=for-the-badge&labelColor=0D0221" alt="Escribir a Kembron"/></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:A855F7,55:7C3AED,100:0D0221&section=footer"/>
 
