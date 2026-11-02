@@ -240,15 +240,15 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, herramient
 | **DJ IA** | ago 2026 | ago 2026 | 🔨 en construcción | solo |
 | **Los Pollos Amigos** | jul 2026 | oct 2026 | ✅ terminado | solo |
 | **Tijera** · agenda de peluquería | jul 2026 | jul 2026 | ✅ terminado | solo |
-| **Apuestas deportivas** | jun 2026 | jun 2026 | ✅ terminado | solo |
-| **Shopify Research** | jun 2026 | jun 2026 | ✅ terminado | solo |
-| **PRODEA** | may 2026 | may 2026 | 🧪 prototipo | solo |
-| **Xupisco Hax** | may 2026 | may 2026 | ✅ terminado · v2.1 | solo |
+| **[Apuestas deportivas](https://github.com/luchoberaza/analisis-apuestas-deportivas)** | jun 2026 | jun 2026 | ✅ terminado | solo |
+| **[Shopify Research](https://github.com/luchoberaza/shopify-research)** | jun 2026 | jun 2026 | ✅ terminado | solo |
+| **[PRODEA](https://github.com/luchoberaza/prodea-web)** | may 2026 | may 2026 | 🧪 prototipo | solo |
+| **[Xupisco Hax](https://github.com/luchoberaza/xupisco-hax)** | may 2026 | may 2026 | ✅ terminado · v2.1 | solo |
 | **[MisticEssence](https://misticessence.com)** | feb 2026 | ago 2026 | ✅ terminado · 🌐 en producción | solo |
 | **[Pizzería Napolitana](https://github.com/luchoberaza/pizzeria-napolitana-webapp)** | feb 2026 | jul 2026 | ✅ terminado | solo |
 | **[GestorPedidos MagikBurger](https://github.com/luchoberaza/gestorpedidos-magikburger)** | dic 2025 | ago 2026 | 🌐 en uso en el local | solo |
-| **Don Pilo** | dic 2025 | ene 2026 | ✅ terminado | solo |
-| **La Mila Grosa** | dic 2025 | ene 2026 | ✅ terminado | solo |
+| **[Don Pilo](https://github.com/luchoberaza/donpilo)** | dic 2025 | ene 2026 | ✅ terminado | solo |
+| **[La Mila Grosa](https://github.com/luchoberaza/la-mila-grosa)** | dic 2025 | ene 2026 | ✅ terminado | solo |
 
 <sub>🟢 activo · 🔨 en construcción · 🌐 en producción · ✅ terminado · 🧪 prototipo<br/><i>active · in progress · in production · done · prototype</i></sub>
 
@@ -328,43 +328,43 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, herramient
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
-### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=APUESTAS%20DEPORTIVAS&fontColor=22D3EE&fontSize=23&fontAlign=17.1&fontAlignY=54" width="100%" alt="Apuestas Deportivas"/>
+### <a href="https://github.com/luchoberaza/analisis-apuestas-deportivas"><img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=APUESTAS%20DEPORTIVAS&fontColor=22D3EE&fontSize=23&fontAlign=17.1&fontAlignY=54" width="100%" alt="Apuestas Deportivas"/></a>
 
 **🇪🇸** Dashboard que calcula las mejores apuestas y combinadas por deporte y competición, **divididas por día**, con la **probabilidad real** de cada una: cuotas del mercado sin el margen de la casa (de-vig de Shin). Muestra cuánto cae la probabilidad al combinar.
 **🇬🇧** Dashboard ranking the best bets and parlays per sport and day, with the real probability of each (Shin de-vig of market odds).
 
 `Flask` · `React` · `Tailwind` · `The Odds API`
-<sub>📅 jun 2026 · ✅ terminado · 🔒 privado · **100%** del repositorio</sub>
+<sub>📅 jun 2026 · ✅ terminado · repo público · [ver código](https://github.com/luchoberaza/analisis-apuestas-deportivas) · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
-### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=SHOPIFY%20RESEARCH&fontColor=22D3EE&fontSize=23&fontAlign=14.4&fontAlignY=54" width="100%" alt="Shopify Research"/>
+### <a href="https://github.com/luchoberaza/shopify-research"><img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=SHOPIFY%20RESEARCH&fontColor=22D3EE&fontSize=23&fontAlign=14.4&fontAlignY=54" width="100%" alt="Shopify Research"/></a>
 
 **🇪🇸** Sistema para vender mejor en Shopify: trae productos de **CJ Dropshipping** y la demanda real de **MercadoLibre**, los puntúa con un scoring configurable, arma las fichas y publica los aprobados como borrador. Cierra el ciclo leyendo las ventas.
 **🇬🇧** Product research & publishing pipeline for Shopify: supplier catalogue + MercadoLibre demand, configurable scoring, listings and draft publishing, closing the loop with sales data.
 
 `Python` · `SQLite` · `Shopify GraphQL` · `MercadoLibre API`
-<sub>📅 jun 2026 · ✅ terminado · 🔒 privado · **100%** del repositorio</sub>
+<sub>📅 jun 2026 · ✅ terminado · repo público · [ver código](https://github.com/luchoberaza/shopify-research) · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
-### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=PRODEA&fontColor=22D3EE&fontSize=23&fontAlign=6.3&fontAlignY=54" width="100%" alt="PRODEA"/>
+### <a href="https://github.com/luchoberaza/prodea-web"><img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=PRODEA&fontColor=22D3EE&fontSize=23&fontAlign=6.3&fontAlignY=54" width="100%" alt="PRODEA"/></a>
 
 **🇪🇸** Sitio para **PRODEA** (Protección y Defensa Animal): animales en adopción, residentes, adopciones exitosas y un panel de administración para cargarlos con foto. Con su modelo de dominio y diagramas de diseño.
 **🇬🇧** Website for an animal-protection shelter: adoptions, resident animals and an admin panel, plus its domain model and design diagrams.
 
 `Next.js 16` · `React 19` · `Tailwind` · `TypeScript`
-<sub>📅 may 2026 · 🧪 prototipo · 🔒 privado · **2 commits** · **100%** del repositorio</sub>
+<sub>📅 may 2026 · 🧪 prototipo · repo público · [ver código](https://github.com/luchoberaza/prodea-web) · **2 commits** · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
-### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=XUPISCO%20HAX&fontColor=22D3EE&fontSize=23&fontAlign=9.9&fontAlignY=54" width="100%" alt="Xupisco Hax"/>
+### <a href="https://github.com/luchoberaza/xupisco-hax"><img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=XUPISCO%20HAX&fontColor=22D3EE&fontSize=23&fontAlign=9.9&fontAlignY=54" width="100%" alt="Xupisco Hax"/></a>
 
 **🇪🇸** Cliente de escritorio para Haxball: abre el juego sin barra de navegador, con **FPS ilimitados**, buscador de salas por nombre y país, favoritos y temas, sin tocar el código ni la red del juego.
 **🇬🇧** Desktop client for Haxball: unlimited FPS, room search by name and country, favourites and themes — without touching the game's code or network.
 
 `Electron` · `TypeScript`
-<sub>📅 may 2026 · ✅ terminado (v2.1) · 🔒 privado · **100%** del repositorio</sub>
+<sub>📅 may 2026 · ✅ terminado (v2.1) · repo público · [ver código](https://github.com/luchoberaza/xupisco-hax) · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
@@ -398,23 +398,23 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, herramient
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
-### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=DON%20PILO&fontColor=22D3EE&fontSize=23&fontAlign=7.0&fontAlignY=54" width="100%" alt="Don Pilo"/>
+### <a href="https://github.com/luchoberaza/donpilo"><img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=DON%20PILO&fontColor=22D3EE&fontSize=23&fontAlign=7.0&fontAlignY=54" width="100%" alt="Don Pilo"/></a>
 
 **🇪🇸** Punto de venta para una panadería: venta rápida, ventas del día, catálogo y stock, y **cierre del día en PDF** protegido con contraseña de administración.
 **🇬🇧** Point of sale for a bakery: quick sales, daily sales, catalogue and stock, and a password-protected end-of-day PDF report.
 
 `Flask` · `SQLite` · `ReportLab`
-<sub>📅 dic 2025 – ene 2026 · ✅ terminado · 🔒 privado · **100%** del repositorio</sub>
+<sub>📅 dic 2025 – ene 2026 · ✅ terminado · repo público · [ver código](https://github.com/luchoberaza/donpilo) · **100%** del repositorio</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,100:0891B2" width="100%" alt=""/>
 
-### <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=LA%20MILA%20GROSA&fontColor=22D3EE&fontSize=23&fontAlign=11.1&fontAlignY=54" width="100%" alt="La Mila Grosa"/>
+### <a href="https://github.com/luchoberaza/la-mila-grosa"><img src="https://capsule-render.vercel.app/api?type=transparent&height=44&color=timeGradient&text=LA%20MILA%20GROSA&fontColor=22D3EE&fontSize=23&fontAlign=11.1&fontAlignY=54" width="100%" alt="La Mila Grosa"/></a>
 
 **🇪🇸** Registro de ventas para un local de milanesas: venta nueva por ítems, historial y resumen del día con estadísticas.
 **🇬🇧** Sales log for a milanesa shop: itemised sales, history and a daily summary with stats.
 
 `Flask` · `SQLite` · `Bootstrap`
-<sub>📅 dic 2025 – ene 2026 · ✅ terminado · 🔒 privado · **100%** del repositorio</sub>
+<sub>📅 dic 2025 – ene 2026 · ✅ terminado · repo público · [ver código](https://github.com/luchoberaza/la-mila-grosa) · **100%** del repositorio</sub>
 
 <br/>
 
