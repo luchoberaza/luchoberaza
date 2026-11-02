@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="mailto:kembronsolutions@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=0D0221"/></a>
+<a href="mailto:lberaza9@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=0D0221"/></a>
 <a href="https://github.com/luchoberaza"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=A855F7"/></a>
 <a href="https://www.instagram.com/luchoberaza/"><img src="https://img.shields.io/badge/Instagram-0D0221?style=for-the-badge&logo=instagram&logoColor=A855F7"/></a>
 <img src="https://img.shields.io/badge/Salto%20·%20Uruguay-0D0221?style=for-the-badge&logo=googlemaps&logoColor=22D3EE"/>
@@ -517,7 +517,7 @@ Lo que hago por mi cuenta, fuera de Kembron: sistemas para comercios, herramient
 
 <br/>
 
-<a href="mailto:kembronsolutions@gmail.com"><img src="https://img.shields.io/badge/📩_Escribime_·_Get_in_touch-A855F7?style=for-the-badge&labelColor=0D0221"/></a>
+<a href="mailto:lberaza9@gmail.com"><img src="https://img.shields.io/badge/📩_Escribime_·_Get_in_touch-A855F7?style=for-the-badge&labelColor=0D0221"/></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:A855F7,55:7C3AED,100:0D0221&section=footer"/>
 
